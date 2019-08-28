@@ -7,7 +7,7 @@ class ButtonBack extends React.Component{
         return(
             <React.Fragment>
                 
-                <button><ArrowBackIcon>start</ArrowBackIcon></button>
+                <button><ArrowBackIcon></ArrowBackIcon></button>
             </React.Fragment>
         )
     }
