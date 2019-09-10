@@ -1,12 +1,11 @@
 import React from 'react';
-import BottonEdit  from "./components/bottonEdit";
+import InputEditProfile from "./components/editprofileinput";
 
 function App() {
   return (
     <React.Fragment>
 
-     <BottonEdit></BottonEdit>
-
+    <InputEditProfile></InputEditProfile>
      </React.Fragment>
    
     );
